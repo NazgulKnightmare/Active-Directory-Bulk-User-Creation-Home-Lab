@@ -43,7 +43,7 @@ To establish a robust and scalable virtual Active Directory (AD) infrastructure,
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Oracale VirtualBox</b> 
+- <b>Oracle VirtualBox</b> 
 - <b>PowerShell</b>
 
 <h2>Environments Used </h2>
